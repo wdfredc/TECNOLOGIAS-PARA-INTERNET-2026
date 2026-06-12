@@ -1,0 +1,41 @@
+Checklist conforme Ficha de Avaliação - Projeto de Site
+
+Aluno: Bernardo Barroso Palhares Albuquerque
+RA: 5172412
+
+1. HTML semântico e organização de arquivos: OK
+   - Páginas usam header, nav, main e footer.
+   - CSS está em /css, JavaScript em /js e imagens em /imagens.
+
+2. CSS responsivo com Flexbox: OK
+   - Menu e componentes usam flexbox/grid e media queries para mobile/desktop.
+
+3. CSS dinâmico com variáveis: OK
+   - Variáveis CSS estão no :root e são usadas em cores, sombras, raio e largura máxima.
+
+4. Animação CSS3: OK
+   - Existem animações @keyframes e transitions nos botões/menu.
+
+5. Menu com JavaScript: OK
+   - Arquivo /js/menu.js abre/fecha o menu e atualiza aria-expanded.
+
+6. Menu hamburger responsivo: OK
+   - Ícone aparece no mobile e mostra/esconde os links ao clicar.
+
+7. Sitemap.xml: OK
+   - Arquivo /sitemap.xml configurado com URLs absolutas para GitHub Pages.
+   - Base utilizada: https://wdfredc.github.io/TECNOLOGIAS-PARA-INTERNET-2026/
+
+8. Robots.txt: OK
+   - Arquivo /robots.txt possui diretivas básicas e referência ao sitemap.
+
+9. Google Analytics: OK
+   - Tag GA4 configurada nos HTMLs com o ID: G-JGPWF4ST33.
+   - Após publicar, confirme os acessos em Relatórios > Tempo real.
+
+10. Search Console: OK
+   - Meta tag de verificação configurada nos HTMLs.
+   - Envie o sitemap no painel do Search Console.
+
+11. Design e usabilidade: OK
+   - Layout coerente, navegação clara, páginas padronizadas e responsivas.
