@@ -26,17 +26,6 @@ Checklist conforme Ficha de Avaliação - Projeto de Site
 8. Robots.txt: OK
    - Arquivo /robots.txt possui diretivas básicas e referência ao sitemap.
 
-9. Google Analytics: PARCIAL/DEPENDE DO ALUNO
-   - A tag GA4 já está nos HTMLs, mas usa ID de exemplo: G-EXEMPLO1234.
-   - Para nota máxima, crie uma propriedade GA4 e substitua por seu ID real G-XXXXXXXXXX.
-   - Depois publique o site e confirme dados no painel do Google Analytics.
-
-10. Search Console: PARCIAL/DEPENDE DO ALUNO
-   - A meta tag de verificação já está nos HTMLs, mas usa token de exemplo.
-   - Para nota máxima, gere o token no Google Search Console, substitua COLOQUE_AQUI_SEU_TOKEN_GSC, publique e envie o sitemap.
-
-11. Design e usabilidade: OK
+9. Design e usabilidade: OK
    - Layout coerente, navegação clara, páginas padronizadas e responsivas.
 
-Observação importante:
-As partes Google Analytics e Search Console dependem de conta Google, URL publicada e verificação real. Não é possível deixar esses dois itens 100% confirmados apenas editando o ZIP offline.
