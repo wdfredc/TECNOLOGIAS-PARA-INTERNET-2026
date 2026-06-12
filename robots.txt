@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /secreto/
 
-Sitemap: https://wdfredc03.github.io/TECNOLOGIAS-PARA-INTERNET-2026/sitemap.xml
+Sitemap: https://wdfredc.github.io/TECNOLOGIAS-PARA-INTERNET-2026/sitemap.xml
