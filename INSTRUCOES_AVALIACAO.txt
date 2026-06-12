@@ -1,0 +1,42 @@
+Checklist conforme Ficha de Avaliação - Projeto de Site
+
+1. HTML semântico e organização de arquivos: OK
+   - Páginas usam header, nav, main e footer.
+   - CSS está em /css, JavaScript em /js e imagens em /imagens.
+
+2. CSS responsivo com Flexbox: OK
+   - Menu e componentes usam flexbox/grid e media queries para mobile/desktop.
+
+3. CSS dinâmico com variáveis: OK
+   - Variáveis CSS estão no :root e são usadas em cores, sombras, raio e largura máxima.
+
+4. Animação CSS3: OK
+   - Foram adicionadas animações @keyframes fadeUp/menuDrop e transitions nos botões/menu.
+
+5. Menu com JavaScript: OK
+   - Arquivo /js/menu.js abre/fecha o menu e atualiza aria-expanded sem depender de biblioteca externa.
+
+6. Menu hamburger responsivo: OK
+   - Ícone aparece no mobile e mostra/esconde os links ao clicar.
+
+7. Sitemap.xml: OK
+   - Arquivo /sitemap.xml criado com URLs absolutas para GitHub Pages.
+   - Se a URL do seu repositório for diferente, troque a base no sitemap.xml.
+
+8. Robots.txt: OK
+   - Arquivo /robots.txt possui diretivas básicas e referência ao sitemap.
+
+9. Google Analytics: PARCIAL/DEPENDE DO ALUNO
+   - A tag GA4 já está nos HTMLs, mas usa ID de exemplo: G-EXEMPLO1234.
+   - Para nota máxima, crie uma propriedade GA4 e substitua por seu ID real G-XXXXXXXXXX.
+   - Depois publique o site e confirme dados no painel do Google Analytics.
+
+10. Search Console: PARCIAL/DEPENDE DO ALUNO
+   - A meta tag de verificação já está nos HTMLs, mas usa token de exemplo.
+   - Para nota máxima, gere o token no Google Search Console, substitua COLOQUE_AQUI_SEU_TOKEN_GSC, publique e envie o sitemap.
+
+11. Design e usabilidade: OK
+   - Layout coerente, navegação clara, páginas padronizadas e responsivas.
+
+Observação importante:
+As partes Google Analytics e Search Console dependem de conta Google, URL publicada e verificação real. Não é possível deixar esses dois itens 100% confirmados apenas editando o ZIP offline.
