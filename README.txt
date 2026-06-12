@@ -19,9 +19,3 @@ O que está implementado:
 URL usada no projeto:
 https://wdfredc.github.io/TECNOLOGIAS-PARA-INTERNET-2026/
 
-Antes de entregar/publicar:
-1. Envie todos os arquivos para o repositório do GitHub Pages.
-2. Aguarde alguns minutos após o commit.
-3. Abra o site e pressione Ctrl + F5 para limpar o cache.
-4. No Google Search Console, envie o sitemap: /sitemap.xml.
-5. No Google Analytics, confira em Relatórios > Tempo real se o acesso aparece.
